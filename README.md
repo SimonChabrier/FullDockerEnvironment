@@ -1,4 +1,5 @@
-# Environnement Docker avec MySql PhpMyAdmin Mailhog Php et Apache
+# Environnement LAMP complet Dockerisé avec MySql PhpMyAdmin Mailhog Php et Apache
+## Ok pour faire tourner des projet symfony 6 et symfony 7
 
 à la racine du projet global : 
 
