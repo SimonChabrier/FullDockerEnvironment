@@ -51,3 +51,6 @@ pour le https sur le serveur dans le container de l'app on installe (il y a un a
 - c'est parce que le certificat SSL est autosigné il suffit d'ajouter une exception au navigateur pour https://127.0.0.1:8000/ et c'est ok.
 
 - La config apache est utilisée uniqument pout afficher les infos php ensuite les app symfony utilise le serveur interne de symfony dans pas besoin de apache.
+
+- SSL
+- Important récupérer sa paire de clé ssh locale et les copier dans le dossier php pour qu'elles soient copiés sur le container "serveur" afin de pouvoir authentifier le container sur github et pouvoir push etc
