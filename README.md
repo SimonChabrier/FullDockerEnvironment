@@ -4,7 +4,7 @@
 à la racine du projet global : 
 
 dossiers impératifs :
-- apache (la config apache de base pour pinter vers le rep phpinfos et afficher les infos php du container server sur le port : http://localhost:8001)
+- apache (la config apache de base pour poiter vers le rep phpinfos et afficher les infos php du container server sur le port : http://localhost:8001)
 - php (les scripts à executer pour créer le container server -> install composer -> symfony CLI etc)
 - server (c'est le "serveur" - le contenu de var/www est accéssible directement dans le dossier local server)
 
