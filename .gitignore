@@ -1,0 +1,7 @@
+/mysql/
+/server/*
+!server/.gitkeep
+!server/phpinfos
+.DS_Store
+/php/id_ed25519
+/php/id_ed25519.pub
